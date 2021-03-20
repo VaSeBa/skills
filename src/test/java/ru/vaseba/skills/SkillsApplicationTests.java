@@ -1,4 +1,4 @@
-package ru.vaseba.Skills;
+package ru.vaseba.skills;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
